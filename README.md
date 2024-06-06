@@ -1,1 +1,1 @@
-# machine-learning-at-prodigy
+Machine Learning at Prodigy Infotech
